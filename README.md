@@ -2,7 +2,7 @@
   <img src="thorfinn_github_logo.jpg" alt="Taridoku Logo" width="250"/>
 </p>
 
-# 🦀 Owen (0xenzo) - **Web3 Security Researcher & AI red teamer**
+# 🦀 Owen (0xenzo) - **Web3 Security Researcher & Solana Auditor**
 
 ---
 
@@ -31,3 +31,4 @@ Podium finishes include 8th Place on KittyFi protocol and 5th place on Folks Sma
 | 13 | 10.2025 | [Avon Contracts](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview) | Lending | 4L | [📑](https://github.com/Owenzo7/security-reports/blob/main/AvonContracts.pdf) | Solidity |
 | 14 | 11.2025 | [ReflectorV3](https://code4rena.com/audits/2025-10-reflector-v3) | Oracle | 2L | [📑](https://github.com/Owenzo7/security-reports/blob/main/ReflectorV3.pdf) | Rust |
 | 15 | 12.2025 | [Swafe](https://code4rena.com/audits/2025-11-swafe) | Zero Knowledge Proofs(ZKP) | 1L | [📑](https://github.com/Owenzo7/security-reports/blob/main/Swafe.pdf) | Rust |
+

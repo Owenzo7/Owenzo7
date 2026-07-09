@@ -26,9 +26,8 @@ Podium finishes include 8th Place on KittyFi protocol and 5th place on Folks Sma
 | 8 | 09.2024 | [MyCut](https://codehawks.cyfrin.io/c/2024-08-MyCut) | Reward Distribution | 3H, 3L | [📑](https://github.com/Owenzo7/security-reports/blob/main/2024-09-16-myCut-audit.pdf) | Solidity |
 | 9 | 05.2025 | [Mystic_Finance](https://www.mysticfinance.xyz/) | Liquid Staking & DEX | 2L | [📑](https://github.com/Owenzo7/security-reports/blob/main/MysticFinance.pdf) | Solidity |
 | 10 | 05.2025 | [Jigsaw Finance](https://cantina.xyz/code/7a40c849-0b35-4128-b084-d9a83fd533ea/overview) | CDP | 2M,2L | [📑](https://github.com/Owenzo7/security-reports/blob/main/JigSawRewards.pdf) | Solidity |
-| 11 | 05.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
-| 12 | 06.2025 | [Notional Exponent](https://audits.sherlock.xyz/contests/2) | Yield & Lending | 1M | [📑](https://github.com/Owenzo7/security-reports/blob/main/NotionalExponent.pdf) | Solidity |
-| 13 | 08.2025 | [Folks Finance Library](https://immunefi.com/audit-competition/folks-sc-library/information/#top) | Lending | 1L | [📑](https://github.com/Owenzo7/security-reports/blob/main/Folks_Smart_Contract_Lib.pdf) | Vyper(Algorand) |
-| 14 | 05.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
-| 15 | 05.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
-| 16 | 05.2025 | [USP](https://pareto.credit/) | Stable coin | 1H, 3M | [📑](https://github.com/0x3b33/reports/blob/master/USP.pdf) | Solidity |
+| 11 | 06.2025 | [Notional Exponent](https://audits.sherlock.xyz/contests/2) | Yield & Lending | 1M | [📑](https://github.com/Owenzo7/security-reports/blob/main/NotionalExponent.pdf) | Solidity |
+| 12 | 08.2025 | [Folks Finance Library](https://immunefi.com/audit-competition/folks-sc-library/information/#top) | Lending | 1L | [📑](https://github.com/Owenzo7/security-reports/blob/main/Folks_Smart_Contract_Lib.pdf) | Vyper(Algorand) |
+| 13 | 10.2025 | [Avon Contracts](https://cantina.xyz/code/708eecf5-a6a0-46c1-a949-277f7408decc/overview) | Lending | 4L | [📑](https://github.com/Owenzo7/security-reports/blob/main/AvonContracts.pdf) | Solidity |
+| 14 | 11.2025 | [ReflectorV3](https://code4rena.com/audits/2025-10-reflector-v3) | Oracle | 2L | [📑](https://github.com/Owenzo7/security-reports/blob/main/ReflectorV3.pdf) | Rust |
+| 15 | 12.2025 | [Swafe](https://code4rena.com/audits/2025-11-swafe) | Zero Knowledge Proofs(ZKP) | 1L | [📑](https://github.com/Owenzo7/security-reports/blob/main/Swafe.pdf) | Rust |
